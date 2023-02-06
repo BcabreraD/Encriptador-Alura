@@ -298,6 +298,16 @@ body{
         height: 1174px;
     }
 
+    header{
+        position: absolute;
+        width: 375px;
+        height: 96px;
+        left: 0px;
+        top: 5px;
+        background: #F3F5FC;
+    }
+
+    
     .logo{
         position: absolute;
         left: 5.21%;
@@ -331,6 +341,13 @@ body{
         height: 90px;
         left: 40px;
         top: 1001px;
+    }
+
+    #resultado{
+        width: 624px;
+        height: 120px;
+        left: 40px;
+        top: 980px; 
     }
 
     .muñeco{
@@ -382,6 +399,7 @@ body{
         height: 96px;
         left: 0px;
         top: 0px;
+        background: #F3F5FC;
     }
     
     .logo{
@@ -391,6 +409,7 @@ body{
         right: 87.2%;
         top: 25%;
         bottom: 25%;
+        
     }
 
    .text-area{
@@ -424,6 +443,13 @@ body{
         right: 24px;
         background-image: none;
         
+    }
+
+    #resultado{
+        left: 24px;
+        top: 707px;
+        width: 265px;
+        height: 132px;
     }
 
     .muñeco{
